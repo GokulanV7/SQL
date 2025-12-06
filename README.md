@@ -19,6 +19,15 @@ SQL/
 ### Phase 1: SQL Fundamentals
 **Focus**: Basic querying, filtering, and sorting
 
+![SQL Fundamentals](workoutattachments/sql1.png)
+![SQL Queries](workoutattachments/sql2.png)
+![SQL Filtering](workoutattachments/sql3.png)
+![SQL Operations](workoutattachments/sql4.png)
+![SQL Patterns](workoutattachments/sql5.png)
+![SQL Sorting](workoutattachments/sql6.png)
+![SQL Functions](workoutattachments/sql7.png)
+![SQL Distinct](workoutattachments/sql8.png)
+
 **Topics Covered**:
 - WHERE clause with comparison operators (`=`, `<`, `>`, `<=`, `>=`, `<>`)
 - Logical operators (`AND`, `OR`)
@@ -33,6 +42,16 @@ SQL/
 
 ### Phase 2: Advanced Operations
 **Focus**: Aggregation and relationships between tables
+
+![SQL Aggregation](workoutattachments/sql9.png)
+![SQL Joins](workoutattachments/sql10.png)
+![SQL Advanced](workoutattachments/sql11.png)
+![SQL Group By](workoutattachments/sql12.png)
+![SQL Having](workoutattachments/sql13.png)
+![SQL Multiple Joins](workoutattachments/sql14.png)
+![SQL Outer Joins](workoutattachments/sql15.png)
+![SQL Complex Queries](workoutattachments/sql16.png)
+![SQL Results](workoutattachments/sql17.png)
 
 **Topics Covered**:
 - Aggregate functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
